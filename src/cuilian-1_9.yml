@@ -1,0 +1,1563 @@
+﻿0:    
+    putong: 100
+    zhongdeng: 100
+    gaodeng: 100
+    wanmei: 100
+    yuangu: 100
+    cisan: 100
+    ciliu: 100
+    cijiu: 100
+    cishier: 100
+    cishiwu: 100
+    cishiba: 100
+    Notice: false
+    arms:
+        a: 1
+        damage: 5
+        bloodSuck: 1
+        jump: 1
+        defense: 4
+        reboundDamage: 1
+        experience: 5
+    helmet:
+        a: 1
+        damage: 1
+        bloodSuck: 1
+        jump: 1
+        defense: 4
+        reboundDamage: 1
+        experience: 5
+    chestplate:
+        a: 1
+        damage: 5
+        bloodSuck: 1
+        jump: 1
+        defense: 4
+        reboundDamage: 1
+        experience: 5
+    leggings:
+        a: 1
+        damage: 5
+        bloodSuck: 1
+        jump: 1
+        defense: 4
+        reboundDamage: 1
+        experience: 5
+    boots:
+        a: 1
+        damage: 5
+        bloodSuck: 1
+        jump: 1
+        defense: 4
+        reboundDamage: 1
+        experience: 5
+    lore: 
+        - "§f§l★一星淬炼"
+    quenchingProtectRune: false
+    suitEffect: false
+    suitEffectWings: defaultwings
+1:
+    putong: 90
+    zhongdeng: 100
+    gaodeng: 100
+    wanmei: 100
+    yuangu: 100
+    cisan: 100
+    ciliu: 100
+    cijiu: 100
+    cishier: 100
+    cishiwu: 100
+    cishiba: 100
+    Notice: false
+    arms:
+        a: 1
+        damage: 10
+        bloodSuck: 2
+        jump: 2
+        defense: 6
+        reboundDamage: 2
+        experience: 10
+    helmet:
+        a: 1
+        damage: 10
+        bloodSuck: 2
+        jump: 2
+        defense: 6
+        reboundDamage: 2
+        experience: 10
+    chestplate:
+        a: 1
+        damage: 10
+        bloodSuck: 2
+        jump: 2
+        defense: 6
+        reboundDamage: 2
+        experience: 10
+    leggings:
+        a: 1
+        damage: 10
+        bloodSuck: 2
+        jump: 2
+        defense: 6
+        reboundDamage: 2
+        experience: 10
+    boots:
+        a: 1
+        damage: 10
+        bloodSuck: 2
+        jump: 2
+        defense: 6
+        reboundDamage: 2
+        experience: 10
+    lore: 
+        - "§f§l★★二星淬炼"
+    quenchingProtectRune: false
+    suitEffect: false
+    suitEffectWings: defaultwings
+2:
+    putong: 80
+    zhongdeng: 90
+    gaodeng: 100
+    wanmei: 100
+    yuangu: 100
+    cisan: 100
+    ciliu: 100
+    cijiu: 100
+    cishier: 100
+    cishiwu: 100
+    cishiba: 100
+    Notice: true
+    arms:
+        a: 1
+        damage: 20
+        bloodSuck: 2
+        jump: 3
+        defense: 6
+        reboundDamage: 2
+        experience: 10
+    helmet:
+        a: 1
+        damage: 20
+        bloodSuck: 2
+        jump: 3
+        defense: 6
+        reboundDamage: 2
+        experience: 10
+    chestplate:
+        a: 1
+        damage: 20
+        bloodSuck: 2
+        jump: 3
+        defense: 6
+        reboundDamage: 2
+        experience: 10
+    leggings:
+        a: 1
+        damage: 20
+        bloodSuck: 2
+        jump: 3
+        defense: 6
+        reboundDamage: 2
+        experience: 10
+    boots:
+        a: 1
+        damage: 20
+        bloodSuck: 2
+        jump: 3
+        defense: 6
+        reboundDamage: 2
+        experience: 10
+    lore: 
+        - "§7§l★★★三星淬炼"
+    quenchingProtectRune: true
+    quenchingProtectRuneItem:
+        item:
+            DisplayName: "§a三星淬炼保护"
+            Lore: 
+             - "§e用法：§a打开背包，鼠标右键物品"
+             - "§e作用：§a对装备附加淬炼保护效果"
+             - "§e说明："
+             - "§7  -§a保护装备淬炼失败时不掉星"
+             - "§7  -§c装备高于三星,却有三星保护,则保护不生效."
+             - "§7  -§a三星保护要求装备淬炼星级小于等于三星"
+            Type: "PAPER"
+            addLore: "§a三星淬炼保护"
+    suitEffect: true
+    suitEffectSet:
+     - SPEED 3
+     - NIGHT_VISION 1
+    suitEffectHP: 25
+    suitEffectWings: defaultwings
+3:
+    putong: 70
+    zhongdeng: 80
+    gaodeng: 100
+    wanmei: 100
+    yuangu: 100
+    cisan: 100
+    ciliu: 100
+    cijiu: 100
+    cishier: 100
+    cishiwu: 100
+    cishiba: 100
+    Notice: false
+    arms:
+        a: 1
+        damage: 30
+        bloodSuck: 4
+        jump: 4
+        defense: 8
+        reboundDamage: 4
+        experience: 15
+    helmet:
+        a: 1
+        damage: 30
+        bloodSuck: 4
+        jump: 4
+        defense: 8
+        reboundDamage: 4
+        experience: 15
+    chestplate:
+        a: 1
+        damage: 30
+        bloodSuck: 4
+        jump: 4
+        defense: 8
+        reboundDamage: 4
+        experience: 15
+    leggings:
+        a: 1
+        damage: 30
+        bloodSuck: 4
+        jump: 4
+        defense: 8
+        reboundDamage: 4
+        experience: 15
+    boots:
+        a: 1
+        damage: 30
+        bloodSuck: 4
+        jump: 4
+        defense: 8
+        reboundDamage: 4
+        experience: 15
+    lore: 
+        - "§7§l★★★★四星淬炼"
+    quenchingProtectRune: false
+    quenchingProtectRuneItem:
+    suitEffect: true
+    suitEffectSet:
+     - SPEED 3
+    suitEffectHP: 25
+    suitEffectWings: defaultwings
+4:
+    putong: 60
+    zhongdeng: 70
+    gaodeng: 100
+    wanmei: 100
+    yuangu: 100
+    cisan: 100
+    ciliu: 100
+    cijiu: 100
+    cishier: 100
+    cishiwu: 100
+    cishiba: 100
+    Notice: false
+    arms:
+        a: 1
+        damage: 40
+        bloodSuck: 6
+        jump: 5
+        defense: 12
+        reboundDamage: 6
+        experience: 20
+    helmet:
+        a: 1
+        damage: 40
+        bloodSuck: 6
+        jump: 5
+        defense: 12
+        reboundDamage: 6
+        experience: 20
+    chestplate:
+        a: 1
+        damage: 40
+        bloodSuck: 6
+        jump: 5
+        defense: 12
+        reboundDamage: 6
+        experience: 20
+    leggings:
+        a: 1
+        damage: 40
+        bloodSuck: 6
+        jump: 5
+        defense: 12
+        reboundDamage: 6
+        experience: 20
+    boots:
+        a: 1
+        damage: 40
+        bloodSuck: 6
+        jump: 5
+        defense: 12
+        reboundDamage: 6
+        experience: 20
+    lore: 
+        - "§8§l☆五星淬炼"
+    quenchingProtectRune: false
+    quenchingProtectRuneItem:
+    suitEffect: true
+    suitEffectSet:
+     - SPEED 3
+    suitEffectHP: 25   
+    suitEffectWings: defaultwings
+5:
+    putong: 50
+    zhongdeng: 60
+    gaodeng: 90
+    wanmei: 100
+    yuangu: 100
+    cisan: 100
+    ciliu: 100
+    cijiu: 100
+    cishier: 100
+    cishiwu: 100
+    cishiba: 100
+    Notice: true
+    arms:
+        a: 1
+        damage: 50
+        bloodSuck: 8
+        jump: 6
+        defense: 16
+        reboundDamage: 10
+        experience: 25
+    helmet:
+        a: 1
+        damage: 50
+        bloodSuck: 8
+        jump: 6
+        defense: 16
+        reboundDamage: 10
+        experience: 25
+    chestplate:
+        a: 1
+        damage: 50
+        bloodSuck: 8
+        jump: 6
+        defense: 16
+        reboundDamage: 10
+        experience: 25
+    leggings:
+        a: 1
+        damage: 50
+        bloodSuck: 8
+        jump: 6
+        defense: 16
+        reboundDamage: 10
+        experience: 25
+    boots:
+        a: 1
+        damage: 50
+        bloodSuck: 8
+        jump: 6
+        defense: 16
+        reboundDamage: 10
+        experience: 25     
+    lore: 
+        - "§8§l☆★六星淬炼"
+    quenchingProtectRune: true
+    quenchingProtectRuneItem:
+        item:
+            DisplayName: "§a六星淬炼保护"
+            Lore: 
+             - "§e用法：§a打开背包，鼠标右键物品"
+             - "§e作用：§a对装备附加淬炼保护效果"
+             - "§e说明："
+             - "§7  -§a保护装备淬炼失败时不掉星"
+             - "§7  -§c装备低于六星,却有六星保护,则保护不生效."
+             - "§7  -§a六星保护要求装备淬炼星级大于等于六星"
+            Type: "PAPER"
+            addLore: "§a六星淬炼保护"
+    suitEffect: true
+    suitEffectSet: 
+    suitEffectHP: 30
+    suitEffectWings: defaultwings
+6:
+    putong: 40
+    zhongdeng: 50
+    gaodeng: 80
+    wanmei: 100
+    yuangu: 100
+    cisan: 90
+    ciliu: 100
+    cijiu: 100
+    cishier: 100
+    cishiwu: 100
+    cishiba: 100
+    Notice: false
+    arms:
+        a: 1
+        damage: 70
+        bloodSuck: 12
+        jump: 7
+        defense: 20
+        reboundDamage: 14
+        experience: 35
+    helmet:
+        a: 1
+        damage: 70
+        bloodSuck: 12
+        jump: 7
+        defense: 20
+        reboundDamage: 14
+        experience: 35
+    chestplate:
+        a: 1
+        damage: 70
+        bloodSuck: 12
+        jump: 7
+        defense: 20
+        reboundDamage: 14
+        experience: 35
+    leggings:
+        a: 1
+        damage: 70
+        bloodSuck: 12
+        jump: 7
+        defense: 20
+        reboundDamage: 14
+        experience: 35
+    boots:
+        a: 1
+        damage: 70
+        bloodSuck: 12
+        jump: 7
+        defense: 20
+        reboundDamage: 14
+        experience: 35
+    lore: 
+        - "§0§l☆★★七星淬炼"
+    quenchingProtectRune: false
+    quenchingProtectRuneItem:
+    suitEffect: true
+    suitEffectSet: 
+    suitEffectHP: 30
+    suitEffectWings: defaultwings
+7:
+    putong: 30
+    zhongdeng: 40
+    gaodeng: 70
+    wanmei: 100
+    yuangu: 90
+    cisan: 100
+    ciliu: 100
+    cijiu: 100
+    cishier: 100
+    cishiwu: 100
+    cishiba: 100
+    Notice: false
+    arms:
+        a: 1
+        damage: 90
+        bloodSuck: 16
+        jump: 8
+        defense: 30
+        reboundDamage: 18
+        experience: 40
+    helmet:
+        a: 1
+        damage: 90
+        bloodSuck: 16
+        jump: 8
+        defense: 30
+        reboundDamage: 18
+        experience: 40
+    chestplate:
+        a: 1
+        damage: 90
+        bloodSuck: 16
+        jump: 8
+        defense: 30
+        reboundDamage: 18
+        experience: 40
+    leggings:
+        a: 1
+        damage: 90
+        bloodSuck: 16
+        jump: 8
+        defense: 30
+        reboundDamage: 18
+        experience: 40
+    boots:
+        a: 1
+        damage: 90
+        bloodSuck: 16
+        jump: 8
+        defense: 30
+        reboundDamage: 18
+        experience: 40
+    lore: 
+        - "§0§l☆★★★八星淬炼"
+    quenchingProtectRune: false
+    quenchingProtectRuneItem:
+    suitEffect: true
+    suitEffectSet: 
+    suitEffectHP: 30     
+    suitEffectWings: defaultwings    
+8:
+    putong: 20
+    zhongdeng: 30
+    gaodeng: 60
+    wanmei: 100
+    yuangu: 100
+    cisan: 80
+    ciliu: 100
+    cijiu: 100
+    cishier: 100
+    cishiwu: 100
+    cishiba: 100
+    Notice: true
+    arms:
+        a: 1
+        damage: 110
+        bloodSuck: 20
+        jump: 9
+        defense: 40
+        reboundDamage: 25
+        experience: 45
+    helmet:
+        a: 1
+        damage: 110
+        bloodSuck: 20
+        jump: 9
+        defense: 40
+        reboundDamage: 25
+        experience: 45
+    chestplate:
+        a: 1
+        damage: 110
+        bloodSuck: 20
+        jump: 9
+        defense: 40
+        reboundDamage: 25
+        experience: 45
+    leggings:
+        a: 1
+        damage: 110
+        bloodSuck: 20
+        jump: 9
+        defense: 40
+        reboundDamage: 25
+        experience: 45
+    boots:
+        a: 1
+        damage: 110
+        bloodSuck: 20
+        jump: 9
+        defense: 40
+        reboundDamage: 25
+        experience: 45
+    lore: 
+        - "§5§l☆★★★★九星淬炼"
+    quenchingProtectRune: true
+    quenchingProtectRuneItem:
+        item:
+            DisplayName: "§a九星淬炼保护"
+            Lore: 
+             - "§e用法：§a打开背包，鼠标右键物品"
+             - "§e作用：§a对装备附加淬炼保护效果"
+             - "§e说明："
+             - "§7  -§a保护装备淬炼失败时不掉星"
+             - "§7  -§c装备高于九星,却有九星保护,则保护不生效."
+             - "§7  -§a九星保护要求装备淬炼星级小于等于九星"
+            Type: "PAPER"
+            addLore: "§a九星淬炼保护"
+    suitEffect: true
+    suitEffectSet:     
+    suitEffectHP: 40
+    suitEffectWings: defaultwings
+9:
+    putong: 10
+    zhongdeng: 20
+    gaodeng: 50
+    wanmei: 100
+    yuangu: 100
+    cisan: 80
+    ciliu: 90
+    cijiu: 100
+    cishier: 100
+    cishiwu: 100
+    cishiba: 100
+    Notice: false
+    arms:
+        a: 1
+        damage: 115
+        bloodSuck: 25
+        jump: 10
+        defense: 45
+        reboundDamage: 30
+        experience: 50
+    helmet:
+        a: 1
+        damage: 115
+        bloodSuck: 25
+        jump: 10
+        defense: 45
+        reboundDamage: 30
+        experience: 50
+    chestplate:
+        a: 1
+        damage: 115
+        bloodSuck: 25
+        jump: 10
+        defense: 45
+        reboundDamage: 30
+        experience: 50
+    leggings:
+        a: 1
+        damage: 115
+        bloodSuck: 25
+        jump: 10
+        defense: 45
+        reboundDamage: 30
+        experience: 50
+    boots:
+        a: 1
+        damage: 115
+        bloodSuck: 25
+        jump: 10
+        defense: 45
+        reboundDamage: 30
+        experience: 50
+    lore: 
+        - "§5§l☆☆十星淬炼"
+    quenchingProtectRune: false
+    quenchingProtectRuneItem:
+    suitEffect: true
+    suitEffectSet:     
+    suitEffectHP: 40    
+    suitEffectWings: defaultwings    
+#十一级
+10:
+    putong: 5
+    zhongdeng: 15
+    gaodeng: 45
+    wanmei: 100
+    yuangu: 100
+    cisan: 80
+    ciliu: 90
+    cijiu: 100
+    cishier: 100
+    cishiwu: 100
+    cishiba: 100
+    Notice: false
+    arms:
+        a: 1
+        damage: 120
+        bloodSuck: 30
+        jump: 11
+        defense: 50
+        reboundDamage: 35
+        experience: 55
+    helmet:
+        a: 1
+        damage: 120
+        bloodSuck: 30
+        jump: 11
+        defense: 50
+        reboundDamage: 35
+        experience: 55
+    chestplate: 
+        damage: 120
+        bloodSuck: 30
+        jump: 11
+        defense: 50
+        reboundDamage: 35
+        experience: 55   
+    leggings:
+        a: 1
+        damage: 120
+        bloodSuck: 30
+        jump: 11
+        defense: 50
+        reboundDamage: 35
+        experience: 55
+    boots:
+        a: 1
+        damage: 120
+        bloodSuck: 30
+        jump: 11
+        defense: 50
+        reboundDamage: 35
+        experience: 55
+    lore: 
+        - "§d§l☆☆★十一星淬炼"
+    quenchingProtectRune: false
+    quenchingProtectRuneItem:
+    suitEffect: true
+    suitEffectSet:     
+    suitEffectHP: 40   
+    suitEffectWings: defaultwings
+#十二级
+11:
+    putong: 0
+    zhongdeng: 10
+    gaodeng: 40
+    wanmei: 95
+    yuangu: 100
+    cisan: 70
+    ciliu: 80
+    cijiu: 90
+    cishier: 100
+    cishiwu: 100
+    cishiba: 100
+    Notice: true
+    arms:
+        a: 1
+        damage: 125
+        bloodSuck: 35
+        jump: 12
+        defense: 55
+        reboundDamage: 40
+        experience: 60
+    helmet:
+        a: 1
+        damage: 125
+        bloodSuck: 35
+        jump: 12
+        defense: 55
+        reboundDamage: 40
+        experience: 60
+    chestplate:
+        a: 1
+        damage: 125
+        bloodSuck: 35
+        jump: 12
+        defense: 55
+        reboundDamage: 40
+        experience: 60
+    leggings:
+        a: 1
+        damage: 125
+        bloodSuck: 35
+        jump: 12
+        defense: 55
+        reboundDamage: 40
+        experience: 60
+    boots:
+        a: 1
+        damage: 125
+        bloodSuck: 35
+        jump: 12
+        defense: 55
+        reboundDamage: 40
+        experience: 60
+    lore: 
+        - "§d§l☆☆★★十二星淬炼"
+    quenchingProtectRune: true
+    quenchingProtectRuneItem:
+        item:
+            DisplayName: "§a十二星淬炼保护"
+            Lore: 
+             - "§e用法：§a打开背包，鼠标右键物品"
+             - "§e作用：§a对装备附加淬炼保护效果"
+             - "§e说明："
+             - "§7  -§a保护装备淬炼失败时不掉星"
+             - "§7  -§c装备高于十二星,却有十二星保护,则保护不生效."
+             - "§7  -§a十二星保护要求装备淬炼星级小于等于十二星"
+            Type: "PAPER"
+            addLore: "§a十二星淬炼保护"
+    suitEffect: true
+    suitEffectSet:     
+    suitEffectHP: 50
+    suitEffectWings: defaultwings
+#十三级
+12:
+    putong: 0
+    zhongdeng: 5
+    gaodeng: 35
+    wanmei: 90
+    yuangu: 100
+    cisan: 70
+    ciliu: 80
+    cijiu: 90
+    cishier: 100
+    cishiwu: 100
+    cishiba: 100
+    Notice: false
+    arms:
+        a: 1
+        damage: 130
+        bloodSuck: 40
+        jump: 13
+        defense: 60
+        reboundDamage: 45
+        experience: 65
+    helmet:
+        a: 1
+        damage: 130
+        bloodSuck: 40
+        jump: 13
+        defense: 60
+        reboundDamage: 45
+        experience: 65
+    chestplate:
+        a: 1
+        damage: 130
+        bloodSuck: 40
+        jump: 13
+        defense: 60
+        reboundDamage: 45
+        experience: 65
+    leggings:
+        a: 1
+        damage: 130
+        bloodSuck: 40
+        jump: 13
+        defense: 60
+        reboundDamage: 45
+        experience: 65
+    boots:
+        a: 1
+        damage: 130
+        bloodSuck: 40
+        jump: 13
+        defense: 60
+        reboundDamage: 45
+        experience: 65
+    lore: 
+        - "§9§l☆☆★★★十三星淬炼"
+    quenchingProtectRune: false
+    quenchingProtectRuneItem:
+    suitEffect: true
+    suitEffectSet:     
+    suitEffectHP: 50  
+    suitEffectWings: defaultwings
+#十四级
+13:
+    putong: 0
+    zhongdeng: 2.5
+    gaodeng: 32.5
+    wanmei: 87.5
+    yuangu: 100
+    cisan: 70
+    ciliu: 80
+    cijiu: 90
+    cishier: 100
+    cishiwu: 100
+    cishiba: 100
+    Notice: false
+    arms:
+        a: 1
+        damage: 135
+        bloodSuck: 45
+        jump: 14
+        defense: 65
+        reboundDamage: 50
+        experience: 70
+    helmet:
+        a: 1
+        damage: 135
+        bloodSuck: 45
+        jump: 14
+        defense: 65
+        reboundDamage: 50
+        experience: 70
+    chestplate:
+        a: 1
+        damage: 135
+        bloodSuck: 45
+        jump: 14
+        defense: 65
+        reboundDamage: 50
+        experience: 70
+    leggings:
+        a: 1
+        damage: 135
+        bloodSuck: 45
+        jump: 14
+        defense: 65
+        reboundDamage: 50
+        experience: 70
+    boots:
+        a: 1
+        damage: 135
+        bloodSuck: 45
+        jump: 14
+        defense: 65
+        reboundDamage: 50
+        experience: 70
+    lore: 
+        - "§9§l☆☆★★★★十四星淬炼"
+    quenchingProtectRune: false
+    quenchingProtectRuneItem:
+    suitEffect: true
+    suitEffectSet:     
+    suitEffectHP: 50    
+    suitEffectWings: defaultwings
+#十五级
+14:
+    putong: 0
+    zhongdeng: 1
+    gaodeng: 31
+    wanmei: 86
+    yuangu: 100
+    cisan: 60
+    ciliu: 70
+    cijiu: 80
+    cishier: 90
+    cishiwu: 100
+    cishiba: 100
+    Notice: true
+    arms:
+        a: 1
+        damage: 140
+        bloodSuck: 50
+        jump: 15
+        defense: 70
+        reboundDamage: 55
+        experience: 75
+    helmet:
+        a: 1
+        damage: 140
+        bloodSuck: 50
+        jump: 15
+        defense: 70
+        reboundDamage: 55
+        experience: 75
+    chestplate:
+        a: 1
+        damage: 140
+        bloodSuck: 50
+        jump: 15
+        defense: 70
+        reboundDamage: 55
+        experience: 75
+    leggings:
+        a: 1
+        damage: 140
+        bloodSuck: 50
+        jump: 15
+        defense: 70
+        reboundDamage: 55
+        experience: 75
+    boots:
+        a: 1
+        damage: 140
+        bloodSuck: 50
+        jump: 15
+        defense: 70
+        reboundDamage: 55
+        experience: 75
+    lore: 
+        - "§1§l☆☆☆十五星淬炼"
+    quenchingProtectRune: true
+    quenchingProtectRuneItem:
+        item:
+            DisplayName: "§a十五星淬炼保护"
+            Lore: 
+             - "§e用法：§a打开背包，鼠标右键物品"
+             - "§e作用：§a对装备附加淬炼保护效果"
+             - "§e说明："
+             - "§7  -§a保护装备淬炼失败时不掉星"
+             - "§7  -§c装备高于十五星,却有十五星保护,则保护不生效."
+             - "§7  -§a十五星保护要求装备淬炼星级小于等于十五星"
+            Type: "PAPER"
+            addLore: "§a十五星淬炼保护"
+    suitEffect: true
+    suitEffectSet:     
+    suitEffectHP: 65
+    suitEffectWings: defaultwings
+#十六级
+15:
+    putong: 0
+    zhongdeng: 0
+    gaodeng: 25
+    wanmei: 80
+    yuangu: 100
+    cisan: 60
+    ciliu: 70
+    cijiu: 80
+    cishier: 90
+    cishiwu: 100
+    cishiba: 100
+    Notice: true
+    arms:
+        a: 1
+        damage: 145
+        bloodSuck: 55
+        jump: 16
+        defense: 75
+        reboundDamage: 60
+        experience: 80
+    helmet:
+        a: 1
+        damage: 145
+        bloodSuck: 55
+        jump: 16
+        defense: 75
+        reboundDamage: 60
+        experience: 80
+    chestplate:
+        a: 1
+        damage: 145
+        bloodSuck: 55
+        jump: 16
+        defense: 75
+        reboundDamage: 60
+        experience: 80
+    leggings:
+        a: 1
+        damage: 145
+        bloodSuck: 55
+        jump: 16
+        defense: 75
+        reboundDamage: 60
+        experience: 80
+    boots:
+        a: 1
+        damage: 145
+        bloodSuck: 55
+        jump: 16
+        defense: 75
+        reboundDamage: 60
+        experience: 80
+    lore: 
+        - "§1§l☆☆☆★十六星淬炼"
+    quenchingProtectRune: false
+    quenchingProtectRuneItem:
+    suitEffect: true
+    suitEffectSet:     
+    suitEffectHP: 65 
+    suitEffectWings: defaultwings
+#十七级
+16:
+    putong: 0
+    zhongdeng: 0
+    gaodeng: 20
+    wanmei: 75
+    yuangu: 100
+    cisan: 60
+    ciliu: 70
+    cijiu: 80
+    cishier: 90
+    cishiwu: 100
+    cishiba: 100
+    Notice: true
+    arms:
+        a: 1
+        damage: 150
+        bloodSuck: 60
+        jump: 17
+        defense: 80
+        reboundDamage: 65
+        experience: 85
+    helmet:
+        a: 1
+        damage: 150
+        bloodSuck: 60
+        jump: 17
+        defense: 80
+        reboundDamage: 65
+        experience: 85
+    chestplate:
+        a: 1
+        damage: 150
+        bloodSuck: 60
+        jump: 17
+        defense: 80
+        reboundDamage: 65
+        experience: 85
+    leggings:
+        a: 1
+        damage: 150
+        bloodSuck: 60
+        jump: 17
+        defense: 80
+        reboundDamage: 65
+        experience: 85
+    boots:
+        a: 1
+        damage: 150
+        bloodSuck: 60
+        jump: 17
+        defense: 80
+        reboundDamage: 65
+        experience: 85
+    lore: 
+        - "§3§l☆☆☆★★十七星淬炼"
+    quenchingProtectRune: false
+    quenchingProtectRuneItem:
+    suitEffect: true
+    suitEffectSet:     
+    suitEffectHP: 65
+    suitEffectWings: defaultwings
+#十八级
+17:
+    putong: 0
+    zhongdeng: 0
+    gaodeng: 15
+    wanmei: 70
+    yuangu: 100
+    cisan: 50
+    ciliu: 60
+    cijiu: 70
+    cishier: 80
+    cishiwu: 90
+    cishiba: 100
+    Notice: true
+    arms:
+        a: 1
+        damage: 155
+        bloodSuck: 65
+        jump: 18
+        defense: 85
+        reboundDamage: 70
+        experience: 90
+    helmet:
+        a: 1
+        damage: 155
+        bloodSuck: 65
+        jump: 18
+        defense: 85
+        reboundDamage: 70
+        experience: 90
+    chestplate:
+        a: 1
+        damage: 155
+        bloodSuck: 65
+        jump: 18
+        defense: 85
+        reboundDamage: 70
+        experience: 90
+    leggings:
+        a: 1
+        damage: 155
+        bloodSuck: 65
+        jump: 18
+        defense: 85
+        reboundDamage: 70
+        experience: 90
+    boots:
+        a: 1
+        damage: 155
+        bloodSuck: 65
+        jump: 18
+        defense: 85
+        reboundDamage: 70
+        experience: 90
+    lore: 
+        - "§3§l☆☆☆★★★十八星淬炼"
+    quenchingProtectRune: true
+    quenchingProtectRuneItem:
+        item:
+            DisplayName: "§a十八星淬炼保护"
+            Lore: 
+             - "§e用法：§a打开背包，鼠标右键物品"
+             - "§e作用：§a对装备附加淬炼保护效果"
+             - "§e说明："
+             - "§7  -§a保护装备淬炼失败时不掉星"
+             - "§7  -§c装备高于十八星,却有十八星保护,则保护不生效."
+             - "§7  -§a十八星保护要求装备淬炼星级小于等于十八星"
+            Type: "PAPER"
+            addLore: "§a十八星淬炼保护"
+    suitEffect: true
+    suitEffectSet:     
+    suitEffectHP: 85
+    suitEffectWings: defaultwings
+#十九级
+18:
+    putong: 0
+    zhongdeng: 0
+    gaodeng: 10
+    wanmei: 65
+    yuangu: 100
+    cisan: 50
+    ciliu: 60
+    cijiu: 70
+    cishier: 80
+    cishiwu: 90
+    cishiba: 100
+    Notice: false
+    arms:
+        a: 1
+        damage: 160
+        bloodSuck: 70
+        jump: 19
+        defense: 90
+        reboundDamage: 75
+        experience: 95
+    helmet:
+        a: 1
+        damage: 160
+        bloodSuck: 70
+        jump: 19
+        defense: 90
+        reboundDamage: 75
+        experience: 95
+    chestplate:
+        a: 1
+        damage: 160
+        bloodSuck: 70
+        jump: 19
+        defense: 90
+        reboundDamage: 75
+        experience: 95
+    leggings:
+        a: 1
+        damage: 160
+        bloodSuck: 70
+        jump: 19
+        defense: 90
+        reboundDamage: 75
+        experience: 95
+    boots:
+        a: 1
+        damage: 160
+        bloodSuck: 70
+        jump: 19
+        defense: 90
+        reboundDamage: 75
+        experience: 95
+    lore: 
+        - "§b§l☆☆☆★★★★十九星淬炼"
+    quenchingProtectRune: false
+    quenchingProtectRuneItem:
+    suitEffect: true
+    suitEffectSet:     
+    suitEffectHP: 85  
+    suitEffectWings: defaultwings
+#二十级
+19:
+    putong: 0
+    zhongdeng: 0
+    gaodeng: 5
+    wanmei: 60
+    yuangu: 100
+    cisan: 40
+    ciliu: 50
+    cijiu: 60
+    cishier: 70
+    cishiwu: 80
+    cishiba: 90
+    Notice: true
+    arms:
+        a: 1
+        damage: 165
+        bloodSuck: 75
+        jump: 20
+        defense: 95
+        reboundDamage: 80
+        experience: 100
+    helmet:
+        a: 1
+        damage: 165
+        bloodSuck: 75
+        jump: 20
+        defense: 95
+        reboundDamage: 80
+        experience: 100
+    chestplate:
+        a: 1
+        damage: 165
+        bloodSuck: 75
+        jump: 20
+        defense: 95
+        reboundDamage: 80
+        experience: 100
+    leggings:
+        a: 1
+        damage: 165
+        bloodSuck: 75
+        jump: 20
+        defense: 95
+        reboundDamage: 80
+        experience: 100
+    boots:
+        a: 1
+        damage: 165
+        bloodSuck: 75
+        jump: 20
+        defense: 95
+        reboundDamage: 80
+        experience: 100
+    lore: 
+        - "§b§l☆☆☆☆二十星淬炼"
+    quenchingProtectRune: false
+    quenchingProtectRuneItem:
+    suitEffect: true
+    suitEffectSet:     
+    suitEffectHP: 85  
+    suitEffectWings: defaultwings
+
+20:
+    putong: 0
+    zhongdeng: 0
+    gaodeng: 2.5
+    wanmei: 57.5
+    yuangu: 100
+    cisan: 30
+    ciliu: 40
+    cijiu: 50
+    cishier: 60
+    cishiwu: 70
+    cishiba: 80
+    Notice: true
+    arms:
+        a: 1
+        damage: 170
+        bloodSuck: 80
+        jump: 21
+        defense: 100
+        reboundDamage: 85
+        experience: 105
+    helmet:
+        a: 1
+        damage: 170
+        bloodSuck: 80
+        jump: 21
+        defense: 100
+        reboundDamage: 85
+        experience: 105
+    chestplate:
+        a: 1
+        damage: 170
+        bloodSuck: 80
+        jump: 21
+        defense: 100
+        reboundDamage: 85
+        experience: 105
+    leggings:
+        a: 1
+        damage: 170
+        bloodSuck: 80
+        jump: 21
+        defense: 100
+        reboundDamage: 85
+        experience: 105
+    boots:
+        a: 1
+        damage: 170
+        bloodSuck: 80
+        jump: 21
+        defense: 100
+        reboundDamage: 85
+        experience: 105
+    lore: 
+        - "§a§l☆☆☆☆★二十一星淬炼"
+    quenchingProtectRune: true
+    quenchingProtectRuneItem:
+        item:
+            DisplayName: "§a二十一星淬炼保护"
+            Lore: 
+             - "§e用法：§a打开背包，鼠标右键物品"
+             - "§e作用：§a对装备附加淬炼保护效果"
+             - "§e说明："
+             - "§7  -§a保护装备淬炼失败时不掉星"
+             - "§7  -§c装备高于二十一星,却有二十一星保护,则保护不生效."
+             - "§7  -§a二十一星保护要求装备淬炼星级小于等于二十一星"
+            Type: "PAPER"
+            addLore: "§a二十一星淬炼保护"
+    suitEffect: true
+    suitEffectSet:     
+    suitEffectHP: 115
+    suitEffectWings: defaultwings
+
+21:
+    putong: 0
+    zhongdeng: 0
+    gaodeng: 1
+    wanmei: 56
+    yuangu: 100
+    cisan: 30
+    ciliu: 40
+    cijiu: 50
+    cishier: 60
+    cishiwu: 70
+    cishiba: 80
+    Notice: false
+    arms:
+        a: 1
+        damage: 175
+        bloodSuck: 85
+        jump: 22
+        defense: 105
+        reboundDamage: 90
+        experience: 110
+    helmet:
+        a: 1
+        damage: 175
+        bloodSuck: 85
+        jump: 22
+        defense: 105
+        reboundDamage: 90
+        experience: 110
+    chestplate:
+        a: 1
+        damage: 175
+        bloodSuck: 85
+        jump: 22
+        defense: 105
+        reboundDamage: 90
+        experience: 110
+    leggings:
+        a: 1
+        damage: 175
+        bloodSuck: 85
+        jump: 22
+        defense: 105
+        reboundDamage: 90
+        experience: 110
+    boots:
+        a: 1
+        damage: 175
+        bloodSuck: 85
+        jump: 22
+        defense: 105
+        reboundDamage: 90
+        experience: 110
+    lore: 
+        - "§a§l☆☆☆☆★★二十二星淬炼"
+    quenchingProtectRune: false
+    quenchingProtectRuneItem:
+    suitEffect: true
+    suitEffectSet:     
+    suitEffectHP: 115
+    suitEffectWings: defaultwings
+
+22:
+    putong: 0
+    zhongdeng: 0
+    gaodeng: 0
+    wanmei: 55
+    yuangu: 100
+    cisan: 30
+    ciliu: 40
+    cijiu: 50
+    cishier: 60
+    cishiwu: 70
+    cishiba: 80
+    Notice: false
+    arms:
+        a: 1
+        damage: 1800
+        bloodSuck: 90
+        jump: 23
+        defense: 110
+        reboundDamage: 95
+        experience: 115
+    helmet:
+        a: 1
+        damage: 180
+        bloodSuck: 90
+        jump: 23
+        defense: 110
+        reboundDamage: 95
+        experience: 115
+    chestplate:
+        a: 1
+        damage: 180
+        bloodSuck: 90
+        jump: 23
+        defense: 110
+        reboundDamage: 95
+        experience: 115
+    leggings:
+        a: 1
+        damage: 180
+        bloodSuck: 90
+        jump: 23
+        defense: 110
+        reboundDamage: 95
+        experience: 115
+    boots:
+        a: 1
+        damage: 180
+        bloodSuck: 90
+        jump: 23
+        defense: 110
+        reboundDamage: 95
+        experience: 115
+    lore: 
+        - "§2§l☆☆☆☆★★★二十三星淬炼"
+    quenchingProtectRune: false
+    quenchingProtectRuneItem:
+    suitEffect: true
+    suitEffectSet:     
+    suitEffectHP: 115
+    suitEffectWings: defaultwings
+
+23:
+    putong: 0
+    zhongdeng: 0
+    gaodeng: 0
+    wanmei: 50
+    yuangu: 100
+    cisan: 20
+    ciliu: 30
+    cijiu: 40
+    cishier: 50
+    cishiwu: 60
+    cishiba: 70
+    Notice: true
+    arms:
+        a: 1
+        damage: 185
+        bloodSuck: 95
+        jump: 24
+        defense: 115
+        reboundDamage: 100
+        experience: 120
+    helmet:
+        a: 1
+        damage: 185
+        bloodSuck: 95
+        jump: 24
+        defense: 115
+        reboundDamage: 100
+        experience: 120
+    chestplate:
+        a: 1
+        damage: 185
+        bloodSuck: 95
+        jump: 24
+        defense: 115
+        reboundDamage: 100
+        experience: 120
+    leggings:
+        a: 1
+        damage: 185
+        bloodSuck: 95
+        jump: 24
+        defense: 115
+        reboundDamage: 100
+        experience: 120
+    boots:
+        a: 1
+        damage: 185
+        bloodSuck: 95
+        jump: 24
+        defense: 115
+        reboundDamage: 100
+        experience: 120
+    lore: 
+        - "§2§l☆☆☆☆★★★★二十四星淬炼"
+    quenchingProtectRune: true
+    quenchingProtectRuneItem:
+        item:
+            DisplayName: "§a二十四星淬炼保护"
+            Lore: 
+             - "§e用法：§a打开背包，鼠标右键物品"
+             - "§e作用：§a对装备附加淬炼保护效果"
+             - "§e说明："
+             - "§7  -§a保护装备淬炼失败时不掉星"
+             - "§7  -§c装备高于二十四星,却有二十四星保护,则保护不生效."
+             - "§7  -§a二十四星保护要求装备淬炼星级小于等于二十四星"
+            Type: "PAPER"
+            addLore: "§a二十四星淬炼保护"
+    suitEffect: true
+    suitEffectSet:     
+    suitEffectHP: 155
+    suitEffectWings: defaultwings

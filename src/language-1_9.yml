@@ -1,0 +1,40 @@
+﻿JOIN_SERVER_NOTICE: "§e§l%p§a§l携带着淬炼装备进入了游戏"
+APPEND_TO_THE_RIGHT_KEY: "§f[§d淬炼保护符§f]§c请在背包内右键"
+ADD_CANCEL_PROMPT: "§f[§d淬炼保护符§f]§c你取消了本次淬炼保护!"
+CAN_NOT_ADD_PROMPT: "§f[§d淬炼保护符§f]§c这个物品不能够进行淬炼保护."
+CAN_ADD_PROMPT: "§a§l附加淬炼保护成功,§d成功对装备附加:%s"
+ADD_PROMPT_LIST:
+ - "§f[§d淬炼保护符§f]§a你正在使用%s"
+ - "§a按E打开背包，鼠标右键点击一件可淬炼的装备来对它附加淬炼保护"
+ - "§a或者右键点击背包空位来取消本次淬炼保护"
+CAN_CUILIAN_PROMPT: "§a§l淬炼成功,§e装备目前为：%s"
+ALL_SERVER_PROMPT: "§6[§6§l恭喜§6]%p§a用%d§a成功将装备淬炼至§6%s"
+CAN_NOT_CUILIAN: "§a§l大于最高淬炼等级，无法淬炼"
+HAS_BAOHUFU_CUILIAN_OVER: "§c§l淬炼失败,§e装备目前为：%s§a(使用淬炼保护)§7(降%d星)"
+CUILIAN_OVER: "§c§l淬炼失败,§e装备目前为：%s§7(降%d星)"
+CUILIAN_OVER_ZERO: "§c§l淬炼失败,§e装备目前为：§f§l零星淬炼§7(降%d星)"
+FIRST: "§e§l淬炼属性:"
+FUCK_BAOHUFU: "§c§l旧的淬炼保护符已拆除"
+UNDER_LINE: 
+ - "§c§m§l  §6§m§l  §e§m§l  §a§m§l  §b§m§l  §e§l装备淬炼§b§m§l  §a§m§l  §e§m§l  §6§m§l  §c§m§l  "
+DAMAGE_LORE: 
+ - "§a附加伤害+%d"
+BLOOD_SUCKING_LORE: 
+ - "§a吸血§4+%d%"
+DEFENSE_LORE: 
+ - "§a附加防御+%d"
+JUMP_LORE:
+ - "§a跳跃加成+§e%d级"
+ANTI_INJURY_LORE: 
+ - "§a反伤效果§4+%d%"
+FALL_LORE: 
+ - "§a跌落减伤+%d%"
+EXPRIENCE: 
+ - "§a附加经验§e+%d%"
+TZXG_TRUE: "§a你激活了%s§a§l套装效果"
+TZXG_FALSE: "§a你失去了%s§a§l套装效果"
+a:
+ - "§a自定义属性标签数值§e+%d"
+
+
+    

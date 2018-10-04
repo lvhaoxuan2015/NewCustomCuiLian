@@ -1,0 +1,23 @@
+arms:
+    - damage
+    - bloodSuck
+    - experience
+    - a
+helmet:
+    - defense
+    - experience
+    - a
+chestplate:
+    - defense
+    - reboundDamage
+    - experience
+    - a
+leggings:
+    - defense
+    - experience
+    - a
+boots: 
+    - defense
+    - jump
+    - experience
+    - a

@@ -1,0 +1,5 @@
+name: NewCustomCuiLian
+main: _new.custom.cuilian.NewCustomCuiLian
+version: 3.6.1
+commands:
+    cuilian:
